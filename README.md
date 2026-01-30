@@ -2,7 +2,6 @@
 
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Coursera Google Project Mangement Professional certificate.png" width=80% height=80%>
 
 Prepare for a new career in the high-growth field of project management, no experience or degree required. Get professional training designed by Google and get on the fastrack to a competitively paid job. There are over 715,000 open jobs in project management with a median entry-level salary of $77,000.¹
 
@@ -41,20 +40,6 @@ The content is highly interactive and exclusively developed by Google employees 
 
 ---
 
-## Professional Certificate - 6 course series
-
-
-[:white_check_mark: **C1-Foundations of Project Management**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-1%20:%20Foundations%20of%20Project%20Management)
-
-[:white_check_mark: **C2-Project Initiation: Starting a Successful Project**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-2%20:%20Project%20Initiation:%20Starting%20a%20Successful%20Project)
-
-[:white_check_mark: **C3-Project Planning: Putting It All Together**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-3%20%3A%20Project%20Planning%3A%20Putting%20It%20All%20Together)
-
-[:white_check_mark: **C4-Project Execution: Running the Project**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-4%20:%20Project%20Execution:%20Running%20the%20Project)
-
-[:white_check_mark: **C5-Agile Project Management**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-5%20%3A%20Agile%20Project%20Management)
-
-[:white_check_mark: **C6-Capstone: Applying Project Management in the Real World**](https://github.com/lk-learner/Google-Project-Management-Professional-Certificate/tree/main/Course-6%20:%20Capstone:%20Applying%20Project%20Management%20in%20the%20Real%20World)
 
 
 ---
