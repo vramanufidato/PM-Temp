@@ -16,11 +16,6 @@ Agile (Scrum/Kanban): Used for execution, allowing for variable "velocity" based
 
 📂 Repository Structure
 
-<a href="https://github.com/vramanufidato/PM-Temp/blob/main/Course-6%20%3A%20Capstone%3A%20Applying%20Project%20Management%20in%20the%20Real%20World/Life%20Reconstruction%20Project%20Plan.xlsx">Life Reconstruction Project Plan.xlsx</a>
-
-
-<a href="https://github.com/vramanufidato/PM-Temp/blob/main/Course-6%20%3A%20Capstone%3A%20Applying%20Project%20Management%20in%20the%20Real%20World/Project_Phoenix_A_Framework_for_Recovery.pdf">Project_Phoenix_A_Framework_for_Recovery.pdf</a>
-
 <a href="/Course-6%20%3A%20Capstone%3A%20Applying%20Project%20Management%20in%20the%20Real%20World/Life%20Reconstruction%20Project%20Plan.xlsx">Life Reconstruction Project Plan.xlsx</a>
 
 
