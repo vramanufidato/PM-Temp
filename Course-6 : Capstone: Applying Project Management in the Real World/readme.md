@@ -15,19 +15,23 @@ Waterfall: Used for foundational governance (Charter, WBS, Risk Registry).
 Agile (Scrum/Kanban): Used for execution, allowing for variable "velocity" based on health-related capacity.
 
 📂 Repository Structure
+
+Life Reconstruction Project Plan.xlsx
+Project_Phoenix_A_Framework_for_Recovery.pdf
+
 1. Initiating & Planning (Waterfall)
-Project_Charter.md: Defines the "Ready to Work" goal, success metrics, and high-level constraints.
+Project_Charter Sheet: Defines the "Ready to Work" goal, success metrics, and high-level constraints.
 
-WBS_Dictionary.md: Breaks down the three pillars (Recovery, Care, Upskilling) into manageable work packages.
+WBS_Dictionary Sheet: Breaks down the three pillars (Recovery, Care, Upskilling) into manageable work packages.
 
-Risk_Registry.xlsx: Outlines "Known-Unknowns" (e.g., health relapses) with proactive mitigation and contingency plans.
+Risk_Registry Sheet: Outlines "Known-Unknowns" (e.g., health relapses) with proactive mitigation and contingency plans.
 
 2. Execution & Monitoring (Agile)
 Sprint_Backlogs/: Weekly prioritized tasks for [Target Skill, e.g., Data Science/Cloud].
 
-Communication_Matrix.md: Stakeholder management plan for medical, familial, and professional circles.
+Communication_Matrix Sheet: Stakeholder management plan for medical, familial, and professional circles.
 
-Retrospective_Logs.md: Bi-weekly analysis of "What worked, what failed, and what to adjust."
+Retrospective Sheet: Bi-weekly analysis of "What worked, what failed, and what to adjust."
 
 📈 Applied PMP Knowledge Areas
 Resource Management: Managing "Cognitive Load" as a finite resource through capacity planning.
