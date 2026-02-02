@@ -21,6 +21,8 @@ Agile (Scrum/Kanban): Used for execution, allowing for variable "velocity" based
 
 <a href="/Course-6%20%3A%20Capstone%3A%20Applying%20Project%20Management%20in%20the%20Real%20World/Project_Phoenix_A_Framework_for_Recovery.pdf">Project_Phoenix_A_Framework_for_Recovery.pdf</a>
 
+<a href="/Course-6%20%3A%20Capstone%3A%20Applying%20Project%20Management%20in%20the%20Real%20World/Project%20Phoenix%20Kick-Off%20%26%20Status%20Review.pdf
+">Project_Status</a>
 
 1. Initiating & Planning (Waterfall)
 Project_Charter Sheet: Defines the "Ready to Work" goal, success metrics, and high-level constraints.
