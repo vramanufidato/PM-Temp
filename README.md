@@ -36,29 +36,30 @@ Used for the daily/weekly grind where energy levels (Resources) were unpredictab
 
 ---
 
-## 🛠 Repository Roadmap
+## 🛠 Repository Roadmap Templates
 
-### 📂 `01_Initiation_&_Planning`
+### 📂 `Course-2 : Project Initiation: Starting a Success`
 
 * **`Project_Charter.md`**: Mission statement and success KPIs.
 * **`Stakeholder_Register.md`**: Identification of supporters and dependencies.
 * **`WBS_Dictionary.md`**: Detailed breakdown of work packages.
 
-### 📂 `02_Risk_&_Issue_Management`
+### 📂 `Course-3 : Project Planning: Putting It All Toget`
 
 * **`Risk_Registry.xlsx`**: Proactive mitigation strategies for "Low-Capacity" days.
 * **`Issue_Log.md`**: Real-time tracking of blockers (e.g., caregiver burnout, tech hurdles).
 
-### 📂 `03_Architecture_&_Systems`
+### 📂 `Course-4 : Project Execution: Running the Proj`
 
 * **`System_Design.md`**: The structural "Service Level Agreements" (SLAs) for my health and care duties.
 * **`Mermaid_Diagrams/`**: Visual flowcharts of the project lifecycle.
 
-### 📂 `04_Agile_Artifacts`
+### 📂 `Course-5 : Agile Project Management`
 
 * **`Sprint_Logs/`**: History of completed study modules and recovery milestones.
 * **`Retrospective_Reports.md`**: Analysis of process improvements over time.
 
+### 📂 Course-6 : Capstone: Applying Project Management in the Real World
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
