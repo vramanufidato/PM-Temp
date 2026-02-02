@@ -59,7 +59,14 @@ Used for the daily/weekly grind where energy levels (Resources) were unpredictab
 * **`Sprint_Logs/`**: History of completed study modules and recovery milestones.
 * **`Retrospective_Reports.md`**: Analysis of process improvements over time.
 
-### 📂 Course-6 : Capstone: Applying Project Management in the Real World
+### 📂 `Course-6 : Capstone: Applying Project Management in the Real World`
+* **`Life Reconstruction Project Plan.xlsx`**: History of completed study modules and recovery milestones.
+* **`Project_Phoenix_A_Framework_for_Recovery.pdf`**: Project Overview & Tools Used & Analysis of process improvements over time.
+
+
+
+
+
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
