@@ -89,8 +89,7 @@ If you are a recruiter or a fellow PM interested in how Agile can be applied to 
 
 ---
 
-### Final Step for your Repo:
+<img width="3438" height="7082" alt="image" src="https://github.com/user-attachments/assets/7aa38c80-d30c-457f-abf7-2da945555dec" />
 
-To make this look "Elite" on GitHub, you should add a visual diagram.
 
-**Would you like me to provide the "Mermaid.js" code for a Gantt Chart or a Flowchart that you can paste into this README to show the project timeline?**
+
